@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ishanwalia7579
-- 👀 I’m interested in ...Coding
+- 👋 Hi, I’m @ishanwalia
+- 👀 I’m interested in ...Web Design, cyber security
 - 🌱 I’m currently learning ...Python,Html,Kotlin,Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
