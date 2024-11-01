@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan walia</h1>
 <h3 align="center">I am Btech 1Year student </h3>
 <h3 align="center">Lovely Professional University </h3>
-
+<img src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/2d20b705-9dac-4f1d-9a01-54ea7557aa4f/6c413449-da83-4063-a7b8-b7bfbb902612.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanwalia7579&label=Profile%20views&color=0e75b6&style=flat" alt="ishanwalia7579" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanwalia7579" alt="ishanwalia7579" /></a> </p>
