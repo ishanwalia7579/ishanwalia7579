@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishan walia</h1>
 <h3 align="center">I am Btech 1Year student </h3>
-<marquee><h3 align="center">Lovely Professional University </h3></marquee>
-<p align="center"
-><img src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/2d20b705-9dac-4f1d-9a01-54ea7557aa4f/6c413449-da83-4063-a7b8-b7bfbb902612.png">
-</p>
-<br>
-<p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79DwP0U2aEwBzgv4Y9LJl3XZOkusWnRijuw&s"> <center><img src="https://instagram.fslv1-1.fna.fbcdn.net/v/t39.30808-6/462112037_17883978804104576_7668533071385740777_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDI0eDU3Ni5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fslv1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=zuKxXO1U7oIQ7kNvgHVn5f8&_nc_gid=99246052ebe6487eb6895c21a682014f&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzQ3MjE5NzAzMTI3NDY3MDkyNQ%3D%3D.3-ccb7-5&oh=00_AYBgq06CNPBFkMZUrwvcVOEkE8fVu4NQZVHCfd9MWj6RGw&oe=672A2D90&_nc_sid=10d13b"></center></p>
+<h3 align="center"><marquee>Lovely Professional University</marquee> </h3>
+
+<p  align="center"><img src="https://instagram.fslv1-1.fna.fbcdn.net/v/t39.30808-6/462112037_17883978804104576_7668533071385740777_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDI0eDU3Ni5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fslv1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=zuKxXO1U7oIQ7kNvgHVn5f8&_nc_gid=99246052ebe6487eb6895c21a682014f&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzQ3MjE5NzAzMTI3NDY3MDkyNQ%3D%3D.3-ccb7-5&oh=00_AYBgq06CNPBFkMZUrwvcVOEkE8fVu4NQZVHCfd9MWj6RGw&oe=672A2D90&_nc_sid=10d13b"></p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanwalia7579&label=Profile%20views&color=0e75b6&style=flat" alt="ishanwalia7579" /> </p>
 
