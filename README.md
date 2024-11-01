@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan walia</h1>
-<h3 align="center">A passionate Engineering from India</h3>
+<h3 align="center">I am Btech 1Year student </h3>
+<h3 align="center">Lovely Professional University </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanwalia7579&label=Profile%20views&color=0e75b6&style=flat" alt="ishanwalia7579" /> </p>
 
