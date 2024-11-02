@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanwalia7579" alt="ishanwalia7579" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Mobile App Development**
+- 👯 I’m looking to collaborate on **Mobile App Development    + Web design   +  Cybersecurity   **
 
 - 💬 Ask me about **DevOps**
 
