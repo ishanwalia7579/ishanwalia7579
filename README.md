@@ -59,7 +59,8 @@ You can view a live demo of the contribution graph generator [here](https://your
 
 ## Screenshot
 
-![Contribution Graph Example](path/to/your/screenshot.png)
+![Contribution Graph Example](![image](https://github.com/user-attachments/assets/0f83650d-29df-45f2-a597-e4dd6c2aefca)
+)
 
 ## Technologies Used
 
