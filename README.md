@@ -37,15 +37,4 @@
 
 
 <br>
-# GitHub Profile Overview
-
-
-## User Information
-
-- **Username:** ishanwalia7579 (Ishanwalia)
-- **Contributions in 2024:** 100
-- **Public Repositories:** 52
-- **Joined GitHub:** 1 year ago
-
-## Contribution Timeline
 
