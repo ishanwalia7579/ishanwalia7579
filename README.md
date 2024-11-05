@@ -37,39 +37,18 @@
 
 
 <br>
-# GitHub Contribution Graph Generator
+# GitHub Profile Overview
 
-This project allows you to generate a contribution graph based on your input data for the last 30 days.
+![Contribution Graph](https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/45468498/HFxJjDgnwgtHcKyS.png?Expires=1731989961&Signature=EXfGMvlk-SQLEgXZ8AbjcyrLTcSVnexuILteZJlKWgM5yX3wTV-hxP~fk9YlaaD6fNYnqlTyv1VKup8lg9ACwp0GO9tSKRmxzAhnzRhYqqiizWwuzN-fx1vQFdPMHzyi10IZ6Cfd6pEdwsOuh~ylvi2qy2SFfyKO4BSYUogB8M-F~uJASB3espDQfu-zVFb9X~PzMXjKmuU01RupTgnomLQ7QFgmyKkGjvhkCQyuxwntiVbz3nEKesW3mDYDEbbFde3XNveL6LKPFUFXPyx8xJnci3ZlMtSFKLCzWqBkrqcY4v8KHH23u8VATExlx61-h8QYo~RwLNJgia3~xQjgsg__&Key-Pair-Id=K3USGZIKWMDCSX)
 
-## Features
+## User Information
 
-- Input contributions for each day.
-- Visualize contributions using a line chart.
+- **Username:** shitcodebykaushik (kaushik raj)
+- **Contributions in 2024:** 1.01k
+- **Public Repositories:** 52
+- **Joined GitHub:** 1 year ago
 
-## How to Use
+## Contribution Timeline
 
-1. Clone this repository or download the HTML file.
-2. Open the `github_contribution_generator.html` file in your web browser.
-3. Enter your contribution values for each of the last 30 days.
-4. Click the "Generate Graph" button to see your contributions visualized.
-
-## Demo
-
-You can view a live demo of the contribution graph generator [here](https://your-live-demo-link.com).
-
-## Screenshot
-
-![Contribution Graph Example](![image](https://github.com/user-attachments/assets/0f83650d-29df-45f2-a597-e4dd6c2aefca)
-)
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- Chart.js
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![Contribution Timeline](https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/45468498/HFxJjDgnwgtHcKyS.png?Expires=1731989961&Signature=EXfGMvlk-SQLEgXZ8AbjcyrLTcSVnexuILteZJlKWgM5yX3wTV-hxP~fk9YlaaD6fNYnqlTyv1VKup8lg9ACwp0GO9tSKRmxzAhnzRhYqqiizWwuzN-fx1vQFdPMHzyi10IZ6Cfd6pEdwsOuh~ylvi2qy2SFfyKO4BSYUogB8M-F~uJASB3espDQfu-zVFb9X~PzMXjKmuU01RupTgnomLQ7QFgmyKkGjvhkCQyuxwntiVbz3nEKesW3mDYDEbbFde3XNveL6LKPFUFXPyx8xJnci3ZlMtSFKLCzWqBkrqcY4v8KHH23u8VATExlx61-h8QYo~RwLNJgia3~xQjgsg__&Key-Pair-Id=K3USGZIKWMDCSX)
 
