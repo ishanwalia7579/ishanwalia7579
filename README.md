@@ -39,16 +39,13 @@
 <br>
 # GitHub Profile Overview
 
-![Contribution Graph](https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/45468498/HFxJjDgnwgtHcKyS.png?Expires=1731989961&Signature=EXfGMvlk-SQLEgXZ8AbjcyrLTcSVnexuILteZJlKWgM5yX3wTV-hxP~fk9YlaaD6fNYnqlTyv1VKup8lg9ACwp0GO9tSKRmxzAhnzRhYqqiizWwuzN-fx1vQFdPMHzyi10IZ6Cfd6pEdwsOuh~ylvi2qy2SFfyKO4BSYUogB8M-F~uJASB3espDQfu-zVFb9X~PzMXjKmuU01RupTgnomLQ7QFgmyKkGjvhkCQyuxwntiVbz3nEKesW3mDYDEbbFde3XNveL6LKPFUFXPyx8xJnci3ZlMtSFKLCzWqBkrqcY4v8KHH23u8VATExlx61-h8QYo~RwLNJgia3~xQjgsg__&Key-Pair-Id=K3USGZIKWMDCSX)
 
 ## User Information
 
-- **Username:** shitcodebykaushik (kaushik raj)
-- **Contributions in 2024:** 1.01k
+- **Username:** ishanwalia7579 (Ishanwalia)
+- **Contributions in 2024:** 100
 - **Public Repositories:** 52
 - **Joined GitHub:** 1 year ago
 
 ## Contribution Timeline
-
-![Contribution Timeline](https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/45468498/HFxJjDgnwgtHcKyS.png?Expires=1731989961&Signature=EXfGMvlk-SQLEgXZ8AbjcyrLTcSVnexuILteZJlKWgM5yX3wTV-hxP~fk9YlaaD6fNYnqlTyv1VKup8lg9ACwp0GO9tSKRmxzAhnzRhYqqiizWwuzN-fx1vQFdPMHzyi10IZ6Cfd6pEdwsOuh~ylvi2qy2SFfyKO4BSYUogB8M-F~uJASB3espDQfu-zVFb9X~PzMXjKmuU01RupTgnomLQ7QFgmyKkGjvhkCQyuxwntiVbz3nEKesW3mDYDEbbFde3XNveL6LKPFUFXPyx8xJnci3ZlMtSFKLCzWqBkrqcY4v8KHH23u8VATExlx61-h8QYo~RwLNJgia3~xQjgsg__&Key-Pair-Id=K3USGZIKWMDCSX)
 
