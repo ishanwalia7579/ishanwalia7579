@@ -34,3 +34,41 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanwalia7579&show_icons=true&locale=en" alt="ishanwalia7579" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanwalia7579&" alt="ishanwalia7579" /></p>
+
+
+<br>
+# GitHub Contribution Graph Generator
+
+This project allows you to generate a contribution graph based on your input data for the last 30 days.
+
+## Features
+
+- Input contributions for each day.
+- Visualize contributions using a line chart.
+
+## How to Use
+
+1. Clone this repository or download the HTML file.
+2. Open the `github_contribution_generator.html` file in your web browser.
+3. Enter your contribution values for each of the last 30 days.
+4. Click the "Generate Graph" button to see your contributions visualized.
+
+## Demo
+
+You can view a live demo of the contribution graph generator [here](https://your-live-demo-link.com).
+
+## Screenshot
+
+![Contribution Graph Example](path/to/your/screenshot.png)
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Chart.js
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
