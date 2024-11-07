@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **waliaishanipshita@gmail.com**
+- 📫 How to reach me ** <a href="https://www.instagram.com/ishanwalia_/">Instagram**
 
 - ⚡ Fun fact **I create Instagram videos, youtude etc...**
 
