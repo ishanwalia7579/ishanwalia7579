@@ -2,7 +2,7 @@
 <h3 align="center">I am Btech 1Year student </h3>
 <h3 align="center"><marquee>Lovely Professional University</marquee> </h3>
 
-<p  align="center"><img src="https://instagram.fslv1-1.fna.fbcdn.net/v/t39.30808-6/462112037_17883978804104576_7668533071385740777_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDI0eDU3Ni5zZHIuZjMwODA4LmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fslv1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=zuKxXO1U7oIQ7kNvgHVn5f8&_nc_gid=99246052ebe6487eb6895c21a682014f&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzQ3MjE5NzAzMTI3NDY3MDkyNQ%3D%3D.3-ccb7-5&oh=00_AYBgq06CNPBFkMZUrwvcVOEkE8fVu4NQZVHCfd9MWj6RGw&oe=672A2D90&_nc_sid=10d13b"></p>
+<p  align="center"><img src=""></p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanwalia7579&label=Profile%20views&color=0e75b6&style=flat" alt="ishanwalia7579" /> </p>
 
