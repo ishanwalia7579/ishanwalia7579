@@ -2,8 +2,10 @@
 <h3 align="center">I am Btech 1Year student </h3>
 <h3 align="center"><marquee>Lovely Professional University</marquee> </h3>
 
-<p  align="center"><img src=""></p>
+<p  align="center"><img src="cyber team.jpeg"></p>
 <br>
+<h6>Coding._.club</h6>
+<img src="coding._.club.jpeg" width="125px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanwalia7579&label=Profile%20views&color=0e75b6&style=flat" alt="ishanwalia7579" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanwalia7579" alt="ishanwalia7579" /></a> </p>
