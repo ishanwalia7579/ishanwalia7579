@@ -21,18 +21,11 @@
 <table>
   <tr>
     <th>Linkdin</th>
-    <th>Instagram</th>
+    <td><img src="linkdin.png" width="125px" alt="Linkdin"></td>
   </tr>
   <tr>
-    <td>
-      <img src="linkdin.png" width="125px" alt="Linkdin">
-    </td>
-    <tr>
-      <td>
-        <img src="instagram.png"  width="125px" alt="instagram">
-      </td>
-    </tr>
-    </td>
+    <th>Instagram</th>
+    <td><img src="instagram.png"  width="125px" alt="instagram"></td>
   </tr>
 </table>
 <h3 align="left">Connect with me:</h3>
