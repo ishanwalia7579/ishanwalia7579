@@ -22,6 +22,7 @@
     <th>linkdin</th>
     <th>Instagram</th>
     <th>Youtude</th>
+    <th>Hackerearth</th>
     <th></th>
   </tr>
   <tr>
@@ -29,6 +30,7 @@
       <img src="linkdin.png" width="125px" alt="Linkdin"></td>
       <td><img src="instagram.png"  width="125px" alt="instagram"></td>
     <td><img src="Youtude.png"  width="125px" alt="Youtude"</td>
+      <td><img src="Hackerearth.png" width="125px" alt="Hackerearth"</td>
   </tr>
 </table>
 <h3 align="left">Connect with me:</h3>
