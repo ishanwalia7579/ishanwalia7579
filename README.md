@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="">
 <h1 align="center">Hi 👋, I'm Ishan walia</h1>
 <h3 align="center">I am Btech 1Year student </h3>
 <h3 align="center"><marquee>Lovely Professional University</marquee> </h3>
@@ -21,7 +22,7 @@
   <tr>
     <th>linkdin</th>
     <th>Instagram</th>
-    <th>Youtude</th>
+    <th id="l1">Youtude</th>
     <th>Telegram</th>
     <th>Hackerearth</th>
     <th></th>
