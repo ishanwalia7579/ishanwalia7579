@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I create Instagram videos, youtude etc...**
 <table>
   <tr>
-    <th>Ilinkdin</th>
+    <th>linkdin</th>
     <th>Instagram</th>
     <th></th>
   </tr>
