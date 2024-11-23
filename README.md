@@ -17,15 +17,16 @@
 - 📫 How to reach me ** <a href="https://www.instagram.com/ishanwalia_/">Instagram**
 
 - ⚡ Fun fact **I create Instagram videos, youtude etc...**
-<p>Linkdin 👇🏻<br><img src="linkdin.png" width="125px" alt="Linkdin"><p>Instagram<br><img src="instagram.png"  width="125px" alt="instagram"></p></p>
 <table>
   <tr>
-    <th>Linkdin</th>
-    <td><img src="linkdin.png" width="125px" alt="Linkdin"></td>
+    <th>Ilinkdin</th>
+    <th>Instagram</th>
+    <th></th>
   </tr>
   <tr>
-    <th>Instagram</th>
-    <td><img src="instagram.png"  width="125px" alt="instagram"></td>
+    <td>
+      <img src="linkdin.png" width="125px" alt="Linkdin"></td>
+      <td><img src="instagram.png"  width="125px" alt="instagram"></td>
   </tr>
 </table>
 <h3 align="left">Connect with me:</h3>
