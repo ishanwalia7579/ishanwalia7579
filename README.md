@@ -26,7 +26,12 @@
   <tr>
     <td>
       <img src="linkdin.png" width="125px" alt="Linkdin">
-  <img src="instagram.png"  width="125px" alt="instagram">
+    </td>
+    <tr>
+      <td>
+        <img src="instagram.png"  width="125px" alt="instagram">
+      </td>
+    </tr>
     </td>
   </tr>
 </table>
