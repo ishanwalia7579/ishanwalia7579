@@ -36,6 +36,12 @@
       <td><img src="Hackerearth.png" width="125px" alt="Hackerearth"</td>
   </tr>
 </table>
+<br>
+-Eduction:
+<ol type="1">
+  <li>Schooling<ul type="disc"><li>St Francies Xavier's Convent School   12<sup>th</sup>&nbsp;86%</li></ul></li>
+  <li>undergraduate<ul type="disc"><li>I am an undergraduate student in my first year of B.Tech at LPU(Lovely Professional University)</li></ul></li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ishan-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ishan-coder" height="30" width="40" /></a>
