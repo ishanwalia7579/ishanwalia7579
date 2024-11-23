@@ -40,7 +40,7 @@
 -Eduction:
 <ol type="1">
   <li>Schooling<ul type="disc"><li>St Francies Xavier's Convent School   12<sup>th</sup>&nbsp;86%</li></ul></li>
-  <li>undergraduate<ul type="disc"><li>I am an undergraduate student in my first year of B.Tech at LPU(Lovely Professional University)</li></ul></li>
+  <li>undergraduate<ul type="disc"><li>I am an undergraduate student in my first year of B.Tech  CSE at LPU(Lovely Professional University)</li></ul></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
