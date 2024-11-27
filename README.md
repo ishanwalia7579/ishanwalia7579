@@ -40,9 +40,7 @@
     <th>Telegram</th>
     <th>Hackerearth</th>
     <th>Whatapp</th>
-    <th></th>
-    <th></th>
-    <th></th>
+    
   </tr>
   <tr>
     <td>
@@ -51,9 +49,8 @@
     <td><img src="Youtude.png"  width="125px" alt="Youtude"</td>
       <td><img src="Telegram.png"  width="125px" alt=""</td>
       <td><img src="Hackerearth.png" width="125px" alt="Hackerearth"</td>
-        <td><img src="" width="125px" alt="whatapp"</td>
-          <td></td>
-    <td></td>
+      
+       
   </tr>
 </table>
 <br>
