@@ -9,10 +9,12 @@
   <tr>
     <th><h6>Coding._.club</h6></th>
     <th><h6>Kotlin coder</h6></th>
+    <th><h6>Codingforpython</h6></th>
   </tr>
   <tr>
     <td><img src="coding._.club.jpeg" width="125px"></td>
     <td></td>
+    <td><img src="python.png" width="125px"></td>
   </tr>
 </table>
 
