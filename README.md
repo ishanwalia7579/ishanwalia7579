@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td><img src="coding._.club.jpeg" width="125px"></td>
-    <td><img src="kotlin.jpg" width="125px"></td>
+    <td><img src="kotlin pic 2.webp" width="125px"></td>
     <td><img src="python.jpg" width="125px"></td>
   </tr>
 </table>
