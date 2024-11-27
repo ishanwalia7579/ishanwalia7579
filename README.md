@@ -5,11 +5,12 @@
 
 <p  align="center"><img src="cyber team.jpeg"></p>
 <br>
+<h1>Youtude & Instagram channel</h1>
 <table>
   <tr>
-    <th><h6>Coding._.club</h6></th>
-    <th><h6>Kotlin coder</h6></th>
-    <th><h6>Codingforpython</h6></th>
+    <th><h6><a href="">Coding._.club</a></h6></th>
+    <th><h6><a href="">Kotlin coder</a></h6></th>
+    <th><h6><a href="">Codingforpython</a></h6></th>
   </tr>
   <tr>
     <td><img src="coding._.club.jpeg" width="125px"></td>
