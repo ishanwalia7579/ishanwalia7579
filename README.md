@@ -18,7 +18,7 @@
     <td><img src="coding._.club.jpeg" width="125px"></td>
     <td><img src="kotlin3.png" width="125px"></td>
     <td><img src="python.jpg" width="125px"></td>
-    <td><img src="" width="125px"></td>
+    <td><img src="css.jpg" width="125px"></td>
     <td><img src="html.jpg" width="125px"></td>
     
   </tr>
