@@ -10,7 +10,7 @@
   <tr>
     <th><h6><a href="https://www.instagram.com/_coding._.club/profilecard/?igsh=MWEzNmo3dzh3djd1eQ==">Coding._.club</a></h6></th>
     <th><h6><a href="">Kotlin coder</a></h6></th>
-    <th><h6><a href="">Codingforpython</a></h6></th>
+    <th><h6><a href="https://www.instagram.com/codingforpython/profilecard/?igsh=MXB0ZmptbWY4cHlxNw==">Codingforpython</a></h6></th>
     <th><h6><a href=""></a></h6></th>
   </tr>
   <tr>
