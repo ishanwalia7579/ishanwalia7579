@@ -9,9 +9,10 @@
 <table>
   <tr>
     <th><h6><a href="https://www.instagram.com/_coding._.club/profilecard/?igsh=MWEzNmo3dzh3djd1eQ==">Coding._.club</a></h6></th>
-    <th><h6><a href="">Kotlin coder</a></h6></th>
+    <th><h6><a href="https://www.instagram.com/kotlin_project/profilecard/?igsh=a2k3cDY3cmVoc2N3">Kotlin coder</a></h6></th>
     <th><h6><a href="https://www.instagram.com/codingforpython/profilecard/?igsh=MXB0ZmptbWY4cHlxNw==">Codingforpython</a></h6></th>
-    <th><h6><a href=""></a></h6></th>
+    <th><h6><a href="https://www.instagram.com/css_coder_?igsh=MW9mZWVqdjVxNjFs">Css_coder</a></h6></th>
+    <th><h6><a href="https://www.instagram.com/html_coder_?igsh=MWIxZ25xYnk4enEwaQ==">Html_coder</a></h6></th>
   </tr>
   <tr>
     <td><img src="coding._.club.jpeg" width="125px"></td>
