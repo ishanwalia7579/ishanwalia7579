@@ -3,7 +3,7 @@
 <h3 align="center">I am Btech 1Year student </h3>
 <h3 align="center"><marquee>Lovely Professional University(LPU)</marquee> </h3>
 
-<p  align="center"><img src="cyber team.jpeg"></p>
+<p  align="center"><img src="cyber team.jpe"></p>
 <br>
 <h1>Youtude & Instagram channel</h1>
 <h4>Welcome </h4>
