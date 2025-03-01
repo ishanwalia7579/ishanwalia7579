@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ishan Walia <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)](https://github.com/rad1antc0d3)
+[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)](https://github.com/ishanwalia7579)
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2054%20mins-blue)
 [![Twitter:  Ishanwalia](https://img.shields.io/twitter/follow/0xRad1ant?style=social)](https://twitter.com/0xRad1ant)
 [![Linkedin: Ishanwalia](https://img.shields.io/badge/-0xRad1ant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xRad1ant)](https://www.linkedin.com/in/0xRad1ant/)
