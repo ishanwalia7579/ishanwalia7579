@@ -20,11 +20,8 @@
 <br>
 <br>
 
-<p align="left"> 
-  <a href="">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xRad1ant.png" alt="TryHackMe" />
-  </a>
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/waliaishanipshit.png" alt="Your Image Badge" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanwalia7579&label=Profile%20views&color=0e75b6&style=flat" alt="ishanwalia7579" /> </p>
 
