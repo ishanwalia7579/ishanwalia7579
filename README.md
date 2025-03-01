@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ishan walia</h1>
 <h3 align="center">I am Btech 1Year student </h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/waliaishanipshit.png" alt="Your Image Badge" />
-<p  align="center"><img src="cyber team.jpeg"></p>
 <br>
 <h1>Youtude & Instagram channel</h1>
 <h4>Welcome </h4>
