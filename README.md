@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)](https://github.com/ishanwalia7579)
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2054%20mins-blue)
-[![Twitter:  Ishanwalia](https://img.shields.io/twitter/follow/0xRad1ant?style=social)](https://twitter.com/0xRad1ant)
+[![Leetcode:  Ishanwalia](https://img.shields.io/twitter/follow/0xRad1ant?style=social)](https://leetcode.com/u/Ishan7579/)
 [![Linkedin: Ishanwalia](https://img.shields.io/badge/-0xRad1ant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xRad1ant)](https://www.linkedin.com/in/0xRad1ant/)
 [![GitHub Ishanwalia](https://img.shields.io/github/followers/0xRad1ant?label=follow&style=social)](https://github.com/0xRad1ant) 
 
