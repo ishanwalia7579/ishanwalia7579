@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="Ishan.css">
 <h1 align="center">Hi 👋, I'm Ishan walia</h1>
 <h3 align="center">I am Btech 1Year student </h3>
-
+  <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3794123" style='border:none;'></a>
 <p  align="center"><img src="cyber team.jpeg"></p>
 <br>
 <h1>Youtude & Instagram channel</h1>
@@ -23,7 +23,7 @@
     
   </tr>
   <br>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3794123" style='border:none;'></iframe>
+
 </table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanwalia7579&label=Profile%20views&color=0e75b6&style=flat" alt="ishanwalia7579" /> </p>
