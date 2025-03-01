@@ -22,6 +22,8 @@
     <td><img src="html.jpg" width="125px"></td>
     
   </tr>
+  <br>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3794123" style='border:none;'></iframe>
 </table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanwalia7579&label=Profile%20views&color=0e75b6&style=flat" alt="ishanwalia7579" /> </p>
