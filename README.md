@@ -42,7 +42,7 @@ const Ishan = {
 };
 ```
 ### 🎯 Coding Challenges
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Ishan7579?theme=dark&ext=activity)](https://leetcode.com/Ishan7579/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Ishan7579?theme=dark&ext=activity)](https://leetcode.com/Ishan7579/)<br>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Ishanwalia?theme=dark&ext=activity)](https://leetcode.com/u/Ishanwalia/)
 
 ---
