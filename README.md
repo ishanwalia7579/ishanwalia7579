@@ -13,11 +13,11 @@
 
 <img width="50%" align="right" alt="Robot GIF" src="./Assets/robot.gif" />
 
-- 👨🏽‍💻 I’m currently working on personal projects;
-- 🌱 I’m currently learning for the CSE Practical;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ I use ARCH btw;
-- 📫 How to reach me: ishanwalia27@gmail.com
+👨🏽‍💻 I’m currently working on personal projects.  
+🌱 I’m currently learning for the CSE Practical.  
+💬 Ask me about anything, I am happy to help!  
+⚡️ I use ARCH btw.  
+📫 How to reach me: [ishanwalia27@gmail.com](mailto:ishanwalia27@gmail.com)
 
 <br>
 <br>
@@ -31,9 +31,42 @@
 <br>
 <br>
 
+### 🛠️ Tech Stack & Tools
 ```javascript
-Hello i am ishan walia
+const Ishan = {
+  languages: ["JavaScript", "Python", "C", "C++", "Java"],
+  frameworks: ["React", "Node.js", "Express", "Spring Boot"],
+  databases: ["MongoDB", "MySQL", "Firebase", "PostgreSQL"],
+  tools: ["Docker", "Kubernetes", "Git", "AWS", "Linux"],
+  currentlyLearning: "Big Data & Cloud Computing"
+};
 ```
+### 🎯 Coding Challenges
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Ishan7579?theme=dark&ext=activity)](https://leetcode.com/Ishan7579/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Ishanwalia?theme=dark&ext=activity)](https://leetcode.com/u/Ishanwalia/)
+
+---
+
+### 💡 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+### 😂 Random Dev Joke  
+![Joke](https://readme-jokes.vercel.app/api)  
+
+---
+### 🌟 Open Source Contributions
+- 🚀 Contributed to various repositories on GitHub.
+- 🔥 Active in open-source communities.
+- 💡 Check out my contributions [here](https://github.com/ishanwalia7579?tab=repositories).
+
+---
+
+### ✍️ Latest Blogs & Articles
+- 📢 [Blog 1 Title](#)
+- 📝 [Blog 2 Title](#)
+- 🚀 [Blog 3 Title](#)
+
+---
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -92,13 +125,13 @@ Text         4 mins          █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanwalia7579&show_icons=true&locale=en&layout=compact" alt="ishanwalia7579" /></p>
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishanwalia7579&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanwalia7579&theme=radical" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanwalia7579&show_icons=true&locale=en" alt="ishanwalia7579" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanwalia7579&" alt="ishanwalia7579" /></p>
-<br>
-
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
