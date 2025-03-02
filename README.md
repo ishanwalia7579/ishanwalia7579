@@ -13,11 +13,16 @@
 
 <img width="50%" align="right" alt="Robot GIF" src="./Assets/robot.gif" />
 
-👨🏽‍💻 I’m currently working on personal projects.  
-🌱 I’m currently learning for the CSE Practical.  
-💬 Ask me about anything, I am happy to help!  
-⚡️ I use ARCH btw.  
+- 🎓 B.Tech CSE Student | Passionate about Web Development, Big Data, and App Development.
+- 🎯 Preparing for Police Exams after Engineering.
+- 🎮 Love playing Kabaddi as a sport.
+- 🖼️ Also managing a wallpaper Instagram channel.  
 📫 How to reach me: [ishanwalia27@gmail.com](mailto:ishanwalia27@gmail.com)
+
+## 📺 Latest YouTube Video
+<a href="https://www.youtube.com/watch?v=your-video-id" target="blank">
+  <img src="https://img.youtube.com/vi/your-video-id/maxresdefault.jpg" width="400" alt="YouTube Video">
+</a>
 
 <br>
 <br>
@@ -51,6 +56,8 @@ const Ishan = {
 
 ### 😂 Random Dev Joke  
 ![Joke](https://readme-jokes.vercel.app/api)  
+
+
 
 ---
 ### 🌟 Open Source Contributions
