@@ -139,3 +139,8 @@ Text         4 mins          █▒░░░░░░░░░░░░░░░
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+## 🐍 GitHub Contributions Snake
+
+![GitHub Snake Light](https://github.com/ishanwalia7579/ishanwalia7579/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/ishanwalia7579/ishanwalia7579/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
