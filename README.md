@@ -142,5 +142,5 @@ Text         4 mins          █▒░░░░░░░░░░░░░░░
 
 ## 🐍 GitHub Contributions Snake
 
-![GitHub Snake Light](https://github.com/ishanwalia7579/ishanwalia7579/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/ishanwalia7579/ishanwalia7579/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/ishanwalia7579/ishanwalia7579/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ishanwalia7579/ishanwalia7579/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
