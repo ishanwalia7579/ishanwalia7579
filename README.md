@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ishan Wali <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Ishan Walia <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ishanwalia7579&color=blue)](https://github.com/ishanwalia7579)]
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2054%20mins-blue)
@@ -7,12 +7,15 @@
 [![Linkedin: Ishanwalia](https://img.shields.io/badge/LinkedIn-Ishanwalia-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishanwalia7579/)
 [![GitHub Ishanwalia](https://img.shields.io/github/followers/ishanwalia7579?label=follow&style=social)](https://github.com/ishanwalia7579)
 
+## 🚀 Connect with Me on Google Developers
+<div align="center">
+  <a href="https://developers.google.com/profile/u/ishanwalia" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Developers_logo.svg/512px-Google_Developers_logo.svg.png" alt="Google Developers" width="120px" />
+    <br />
+    <img src="https://img.shields.io/badge/Visit%20My%20Google%20Developer%20Profile-Click%20Here-blue?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+</div>
 
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanwalia7579" alt="ishanwalia7579" /></a> </p>
-<br>
 <h2>🚀Languages</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50" />
@@ -58,6 +61,7 @@ Text         4 mins          █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanwalia7579" alt="ishanwalia7579" /></a> </p>
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ishanwalia7579&show_icons=true&theme=radical" alt="GitHub Stats" />
