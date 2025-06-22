@@ -7,15 +7,20 @@
 [![Linkedin: Ishanwalia](https://img.shields.io/badge/LinkedIn-Ishanwalia-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishanwalia7579/)
 [![GitHub Ishanwalia](https://img.shields.io/github/followers/ishanwalia7579?label=follow&style=social)](https://github.com/ishanwalia7579)
 
-## 🚀 Connect with Me on Google Developers
+## 🚀 My Google Developer Identity Profile
+[![Learning on Google Developers](https://img.shields.io/badge/Google%20Developers-Learner-blue?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/ishanwalia)
+[![Google Badge](https://img.shields.io/badge/View%20Profile-blue?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/ishanwalia)
 <div align="center">
   <a href="https://developers.google.com/profile/u/ishanwalia" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Developers_logo.svg/512px-Google_Developers_logo.svg.png" alt="Google Developers" width="120px" />
-    <br />
-    <img src="https://img.shields.io/badge/Visit%20My%20Google%20Developer%20Profile-Click%20Here-blue?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Developers" width="80" height="80" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Google%20Developer-%231DA1F2.svg?style=for-the-badge&logo=Google&logoColor=white" />
+    <br><br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&center=true&vCenter=true&lines=Ishan+Walia+on+Google+Developer;AI+%7C+Cyber+Security+%7C+App+Developer;Let's+Connect+and+Build+Together!" />
   </a>
 </div>
 
+<br>
 <h2>🚀Languages</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50" />
@@ -47,7 +52,6 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/waliaishanipshi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/waliaishanipshi1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/waliaisha3lxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/waliaisha3lxi/" height="30" width="40" /></a>
 </p>
-
 **🐱 My Wakatime Data** 
 
 <!--START_SECTION:waka-->
