@@ -31,6 +31,9 @@
     <img class="intellij-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" />
     <img class="androidstudio-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" />
 <img class="mongodb-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"  />
+ <img class="kalilinux-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kali_Linux_Logo.svg/512px-Kali_Linux_Logo.svg.png" alt="Kali Linux" width="100" />
+
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
