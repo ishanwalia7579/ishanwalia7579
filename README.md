@@ -35,42 +35,7 @@
 <br>
 <br>
 
-### 🛠️ Tech Stack & Tools
-```javascript
-const Ishan = {
-  languages: ["JavaScript", "Python", "C", "C++", "Java"],
-  frameworks: ["React", "Node.js", "Express", "Spring Boot"],
-  databases: ["MongoDB", "MySQL", "Firebase", "PostgreSQL"],
-  tools: ["Docker", "Kubernetes", "Git", "AWS", "Linux"],
-  currentlyLearning: "Big Data & Cloud Computing"
-};
-```
 
-
----
-
-### 💡 Random Dev Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
-### 😂 Random Dev Joke  
-![Joke](https://readme-jokes.vercel.app/api)  
-
-
-
----
-### 🌟 Open Source Contributions
-- 🚀 Contributed to various repositories on GitHub.
-- 🔥 Active in open-source communities.
-- 💡 Check out my contributions [here](https://github.com/ishanwalia7579?tab=repositories).
-
----
-
-### ✍️ Latest Blogs & Articles
-- 📢 [Blog 1 Title](#)
-- 📝 [Blog 2 Title](#)
-- 🚀 [Blog 3 Title](#)
-
----
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
