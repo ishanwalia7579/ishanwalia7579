@@ -66,6 +66,7 @@ Text         4 mins          █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanwalia7579" alt="ishanwalia7579" /></a> </p>
+
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ishanwalia7579&show_icons=true&theme=radical" alt="GitHub Stats" />
