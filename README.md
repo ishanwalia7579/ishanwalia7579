@@ -65,8 +65,14 @@ Text         4 mins          █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanwalia7579" alt="ishanwalia7579" /></a> </p>
+## 🏆 GitHub Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishanwalia7579&theme=onestar&row=2&column=4&no-bg=true&no-frame=true&margin-w=22&margin-h=20" alt="GitHub Trophies" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&width=600&center=true&lines=Open+Source+Champion;Code+Streak+Maintainer;Building+Impactful+Projects;Let's+Build+Together!"/>
+</div>
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ishanwalia7579&show_icons=true&theme=radical" alt="GitHub Stats" />
