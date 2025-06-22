@@ -1,4 +1,5 @@
 <h2> Hi, I'm Ishan Walia <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=ishanwalia7579&color=blue)](https://github.com/ishanwalia7579)]
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2054%20mins-blue)
 
