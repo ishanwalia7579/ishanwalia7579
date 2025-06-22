@@ -9,17 +9,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-<img width="50%" align="right" alt="Robot GIF" src="./Assets/robot.gif" />
-
-- 🎓 B.Tech CSE Student | Passionate about Web Development, Big Data, and App Development.
-- 🎯 Preparing for Police Exams after Engineering.
-- 🎮 Love playing Kabaddi as a sport.
-- 🖼️ Also managing a wallpaper Instagram channel.  
-📫 How to reach me: [ishanwalia27@gmail.com](mailto:ishanwalia27@gmail.com)
-
-
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanwalia7579" alt="ishanwalia7579" /></a> </p>
 <br>
@@ -77,7 +67,4 @@ Text         4 mins          █▒░░░░░░░░░░░░░░░
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-## 🐍 GitHub Contributions Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/ishanwalia7579/ishanwalia7579/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/ishanwalia7579/ishanwalia7579/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
